@@ -1,0 +1,17 @@
+body
+{
+	background-color: goldenrod;
+	color:darkblue;
+	text-align: center;
+}
+
+.titulo
+{
+	margin-bottom: 50px;
+}
+
+.imagen
+{
+	width: 300px;
+	height:300px;
+}

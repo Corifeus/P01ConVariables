@@ -1,0 +1,7 @@
+primera_actividad:
+    resource: "@primeraActividadBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

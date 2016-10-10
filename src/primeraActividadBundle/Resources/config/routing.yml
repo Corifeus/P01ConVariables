@@ -1,0 +1,7 @@
+primera_actividad_homepage:
+    path:     /
+    defaults: { _controller: primeraActividadBundle:Default:index }
+
+primera_actividad_producto:
+    path:     /producto/{idPro}
+    defaults: { _controller: primeraActividadBundle:Default:producto }
